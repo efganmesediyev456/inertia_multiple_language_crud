@@ -1,0 +1,14 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.alert li {
+    font-size: 14px;
+}
+.logout-link {
+    border: none;
+    background: none;
+    display: inline;
+    color: #fff !important;
+}
